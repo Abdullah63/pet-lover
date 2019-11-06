@@ -1,0 +1,14 @@
+body{
+    background-color:#3498db;
+}
+h1{
+    color: #3498db ;
+    text-align: center;
+    font-size: 10ex;
+    background-color: rgb(39, 34, 109);
+}
+
+nav{ 
+    font-size: 5ex;
+
+}
